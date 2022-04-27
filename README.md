@@ -17,7 +17,7 @@ class Nick:
         self.company = "Amazon Web Services (AWS)"
         self.team = "Dedicated Cloud Training"
         self.role = "Manager, Lab Development Engineering"
-        self.email = "nick@apislabs.def"
+        self.email = "nick@apislabs.dev"
 
     def hello_world(self):
         print("I'm Nick! I work at AWS building hands-on training and tools to automate curriculum development.")
