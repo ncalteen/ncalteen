@@ -15,6 +15,7 @@ class Nick:
         self.first_name = "Nick"
         self.last_name = "Alteen"
         self.pronouns = "he/him"
+        self.email = "ncalteen@gmail.com"
         self.jobs = [
             {
                 "company": "Google",
