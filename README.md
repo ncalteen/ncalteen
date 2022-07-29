@@ -56,28 +56,11 @@ me.hello_world()
 
 I have some level of knowledge between *"comfortable sharing with experienced developers"* and *"this is bad and I should feel bad"* for each of the following.
 
-##### Process
-
-- CI/CD
-- Configuration Management
-- DevOps
-- Infrastructure as Code
-- Serverless
-- Source Control
-
-##### Platform
-
-- AWS
-- Chef
-- GCP
-- RedHat
-- Unity
-- Windows
-
-##### Programming
-
-- Bash
-- C#
-- JavaScript
-- Python
-- Ruby
+| Process                      | Platform | Programming |
+|------------------------------|----------|-------------|
+| CI/CD                        | AWS      | Bash        |
+| Configuration Management     | Chef     | C#          |
+| DevOps                       | GCP      | JavaScript  |
+| Infrastructure as Code (IaC) | RedHat   | Python      |
+| Serverless                   | Unity    | Ruby        |
+| Source Control               | Windows  | TypeScript  |
