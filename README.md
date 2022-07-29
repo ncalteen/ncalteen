@@ -1,7 +1,7 @@
 ### Nick Alteen
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)](https://www.linkedin.com/in/ncalteen)
-[![Gmail Badge](https://img.shields.io/badge/gmail-nick%40apislabs.dev-red)](mailto:ncalteen@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)](mailto:ncalteen@gmail.com)
 
 ```python
 #!/usr/bin/python
