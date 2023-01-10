@@ -18,11 +18,20 @@ class Nick:
         self.email = "ncalteen@gmail.com"
         self.jobs = [
             {
+                "company": "GitHub",
+                "organization": "Partner and Expert Services",
+                "team": "Expert Services Delivery",
+                "role": "Senior Service Delivery Engineer",
+                "start_date": datetime.date(year=2023, month=1, day=10),
+                "end_date": None,
+            },
+            {
                 "company": "Google",
                 "organization": "Consumer Payments and Next Billion Users (NBU)",
                 "team": "Payments Developer Relations Engineering - Google Pay and Google Wallet",
+                "role": "Technical Writer",
                 "start_date": datetime.date(year=2022, month=5, day=30),
-                "end_date": None,
+                "end_date": datetime.date(year=2023, month=1, day=6),
             },
             {
                 "company": "Amazon Web Services (AWS)",
@@ -35,7 +44,7 @@ class Nick:
         ]
 
     def hello_world(self):
-        print("I'm Nick! I work at Google building documentation, code examples, and other cool stuff for Google Pay and Google Wallet.")
+        print("I'm Nick! I work at GitHub :)")
         print("In my spare time, I like to build things that get people interested in the cloud.")
 
     def collaborate(self, interested: bool):
