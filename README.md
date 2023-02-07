@@ -28,8 +28,8 @@ class Nick:
             {
                 "company": "Google",
                 "organization": "Consumer Payments and Next Billion Users (NBU)",
-                "team": "Payments Developer Relations Engineering - Google Pay and Google Wallet",
-                "role": "Technical Writer",
+                "team": "Google Pay and Google Wallet",
+                "role": "Developer Relations Engineer",
                 "start_date": datetime.date(year=2022, month=5, day=30),
                 "end_date": datetime.date(year=2023, month=1, day=6),
             },
@@ -37,9 +37,25 @@ class Nick:
                 "company": "Amazon Web Services (AWS)",
                 "organization": "AWS Training & Certification",
                 "team": "Dedicated Cloud Training",
-                "role": "Manager, Lab Development Engineering",
-                "start_date": datetime.date(year=2018, month=1, day=1),
+                "role": "Software Engineering Manager - Labs",
+                "start_date": datetime.date(year=2020, month=4, day=1),
                 "end_date": datetime.date(year=2022, month=5, day=30),
+            },
+            {
+                "company": "Amazon Web Services (AWS)",
+                "organization": "AWS Training & Certification",
+                "team": "Dedicated Cloud Training",
+                "role": "Software Engineer - Labs",
+                "start_date": datetime.date(year=2018, month=1, day=1),
+                "end_date": datetime.date(year=2020, month=4, day=1),
+            },
+            {
+                "company": "Amazon Web Services (AWS)",
+                "organization": "AWS Support",
+                "team": "Deployment",
+                "role": "Cloud Support Engineer II",
+                "start_date": datetime.date(year=2016, month=9, day=6),
+                "end_date": datetime.date(year=2020, month=4, day=1),
             }
         ]
 
@@ -62,7 +78,7 @@ me.hello_world()
 
 #### Toolbox
 
-I have some level of knowledge between *"comfortable sharing with experienced developers"* and *"this is bad and I should feel bad"* for each of the following.
+I have some level of knowledge between _"comfortable educating experienced developers"_ and _"this is bad and I should feel bad"_ for each of the following.
 
 | Process                      | Platform | Programming |
 |------------------------------|----------|-------------|
