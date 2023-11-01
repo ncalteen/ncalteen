@@ -27,7 +27,6 @@ jobs:
 
       - name: Push
         id: push
-        working-directory: ./ncalteen
         run: |
           git config user.name "GitHub Actions"
           git config user.email "<>"
