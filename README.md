@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)](https://www.linkedin.com/in/ncalteen)
 [![Gmail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)](mailto:ncalteen@gmail.com)
 
-Interesting repos I've been contributing to:
+#### Interesting Repos
 
 - [`actions/typescript-action`](https://github.com/actions/typescript-action)
 - [`actions/container-action`](https://github.com/actions/container-action)
@@ -22,6 +22,8 @@ Interesting repos I've been contributing to:
 - [`issue-ops/semver`](https://github.com/issue-ops/semver)
 - [`issue-ops/validator`](https://github.com/issue-ops/validator)
 - [`ncalteen/branch-enforcement`](https://github.com/ncalteen/branch-enforcement)
+
+#### About Me
 
 ```python
 #!/usr/bin/python
