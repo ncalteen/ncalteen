@@ -3,6 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)](https://www.linkedin.com/in/ncalteen)
 [![Gmail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)](mailto:ncalteen@gmail.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 Interesting repos I've been contributing to:
 
 - [`actions/typescript-action`](https://github.com/actions/typescript-action)
@@ -95,7 +101,7 @@ me.hello_world()
 I have some level of knowledge between _"comfortable educating experienced developers"_ and _"this is bad and I should feel bad"_ for each of the following.
 
 | Process                      | Platform | Programming |
-|------------------------------|----------|-------------|
+| ---------------------------- | -------- | ----------- |
 | CI/CD                        | AWS      | Bash        |
 | Configuration Management     | Chef     | C#          |
 | DevOps                       | GCP      | JavaScript  |
