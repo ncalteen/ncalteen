@@ -8,8 +8,14 @@ Interesting repos I've been contributing to:
 - [`actions/typescript-action`](https://github.com/actions/typescript-action)
 - [`actions/container-action`](https://github.com/actions/container-action)
 - [`actions/javascript-action`](https://github.com/actions/javascript-action)
+- [`github/local-action`](https://github.com/github/local-action)
+- [`issue-ops/docs`](https://github.com/issue-ops/docs)
+- [`issue-ops/labeler`](https://github.com/issue-ops/labeler)
+- [`issue-ops/parser`](https://github.com/issue-ops/parser)
+- [`issue-ops/releaser`](https://github.com/issue-ops/releaser)
+- [`issue-ops/semver`](https://github.com/issue-ops/semver)
+- [`issue-ops/validator`](https://github.com/issue-ops/validator)
 - [`ncalteen/branch-enforcement`](https://github.com/ncalteen/branch-enforcement)
-- [`ncalteen/copilot-python-flask-demo`](https://github.com/ncalteen/copilot-python-flask-demo)
 
 ```python
 #!/usr/bin/python
