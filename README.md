@@ -1,26 +1,42 @@
 # Nick Alteen
 
-<figure style="text-align: center;">
+<p align="center">
+  <figure>
     <source
-        media="(prefers-color-scheme: dark)"
-        srcset="dist/github-snake-dark.svg" />
+      media="(prefers-color-scheme: dark)"
+      srcset="dist/github-snake-dark.svg" />
     <source
-        media="(prefers-color-scheme: light)"
-        srcset="dist/github-snake.svg" />
+      media="(prefers-color-scheme: light)"
+      srcset="dist/github-snake.svg" />
     <img
-        alt="github-snake"
-        src="dist/github-snake.svg" />
+      alt="github-snake"
+      src="dist/github-snake.svg" />
     <figcaption>
-        Credit: <a href="https://github.com/Platane/snk"><code>Platane/snk</code></a>
+      <p align="center">
+        Image Credit:&nbsp;
+        <a href="https://github.com/Platane/snk">
+          <code>Platane/snk</code>
+        </a>
+      </p>
     </figcaption>
-</figure>
+  </figure>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ncalteen">
+    <img
+      src="https://img.shields.io/badge/linkedin-ncalteen-blue"
+      alt="LinkedIn Badge" />
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)](https://www.linkedin.com/in/ncalteen)
-[![Gmail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)](mailto:ncalteen@gmail.com)
-
-</div>
+<p align="center">
+  <a href="mailto:ncalteen@gmail.com">
+    <img
+      src="https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red"
+      alt="GMail Badge" />
+  </a>
+</p>
 
 ## Interesting Projects
 
