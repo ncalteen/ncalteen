@@ -1,29 +1,64 @@
-### Nick Alteen
+# Nick Alteen
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
+<figure style="text-align: center;">
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="dist/github-snake-dark.svg" />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="dist/github-snake.svg" />
+    <img
+        alt="github-snake"
+        src="dist/github-snake.svg" />
+    <figcaption>
+        Credit: <a href="https://github.com/Platane/snk"><code>Platane/snk</code></a>
+    </figcaption>
+</figure>
+
+<div style="text-align: center;">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)](https://www.linkedin.com/in/ncalteen)
 [![Gmail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)](mailto:ncalteen@gmail.com)
 
-#### Interesting Repos
+</div>
+
+## Interesting Projects
+
+Below are some interesting repositories and projects I've been contributing to
+:man_technologist:
+
+Curious about building your own GitHub Actions?
 
 - [`actions/typescript-action`](https://github.com/actions/typescript-action)
 - [`actions/container-action`](https://github.com/actions/container-action)
+- [`actions/container-prebuilt-action`](https://github.com/actions/container-prebuilt-action)
+- [`actions/container-toolkit-action`](https://github.com/actions/container-toolkit-action)
 - [`actions/javascript-action`](https://github.com/actions/javascript-action)
+
+Curious about _testing_ your own GitHub Actions?
+
 - [`github/local-action`](https://github.com/github/local-action)
+
+[_IssueOps_](https://issue-ops.github.io/docs/) is the process of interacting
+with GitHub Issues and Pull Requests to invoke commands. For example, approving
+requests to access important systems.
+
 - [`issue-ops/docs`](https://github.com/issue-ops/docs)
 - [`issue-ops/labeler`](https://github.com/issue-ops/labeler)
 - [`issue-ops/parser`](https://github.com/issue-ops/parser)
 - [`issue-ops/releaser`](https://github.com/issue-ops/releaser)
 - [`issue-ops/semver`](https://github.com/issue-ops/semver)
 - [`issue-ops/validator`](https://github.com/issue-ops/validator)
+
+Curious about protecting endangered species using AI?
+
+- [WildTrack.org](https://ai.wildtrack.org/)
+
+Other interesting repos:
+
 - [`ncalteen/branch-enforcement`](https://github.com/ncalteen/branch-enforcement)
 
-#### About Me
+## About Me
 
 ```python
 #!/usr/bin/python
@@ -83,13 +118,15 @@ class Nick:
 
     def hello_world(self):
         print("I'm Nick! I work at GitHub :)")
-        print("In my spare time, I like to build things that get people interested in the cloud.")
+        print("I like to build things that get people interested in the cloud.")
 
     def collaborate(self, interested: bool):
         if interested:
             print("I love collaboration!")
-            print("I have some personal projects I'd love to get feedback and input on. Feel free to check them out :)")
-            print("If you have projects that you're passionate about, let me know! I'd love help if I can.")
+            print("I have some personal projects I'd love to get feedback on.")
+            print("Feel free to check them out :)")
+            print("If you have projects you're passionate about, let me know!")
+            print("I'd love help if I can.")
 
     def contact_me(self):
         print(f"Feel free to send me a message at {self.email}")
@@ -98,9 +135,11 @@ me = Nick()
 me.hello_world()
 ```
 
-#### Toolbox
+## Toolbox
 
-I have some level of knowledge between _"comfortable educating experienced developers"_ and _"this is bad and I should feel bad"_ for each of the following.
+I have some level of knowledge between _"comfortable educating experienced
+developers"_ and _"this is bad and I should feel bad"_ for each of the
+following.
 
 | Process                      | Platform | Programming |
 | ---------------------------- | -------- | ----------- |
