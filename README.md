@@ -100,7 +100,7 @@ class Nick:
             },
             {
                 "company": "Google",
-                "organization": "Consumer Payments and Next Billion Users (NBU)",
+                "organization": "Consumer Payments and Next Billion Users",
                 "team": "Google Pay and Google Wallet",
                 "role": "Developer Relations Engineer",
                 "start_date": datetime.date(year=2022, month=5, day=30),
