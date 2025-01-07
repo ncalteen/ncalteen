@@ -1,42 +1,7 @@
 # Nick Alteen
 
-<p align="center">
-  <figure>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="dist/github-snake-dark.svg" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="dist/github-snake.svg" />
-    <img
-      alt="github-snake"
-      src="dist/github-snake.svg" />
-    <figcaption>
-      <p align="center">
-        Image Credit:&nbsp;
-        <a href="https://github.com/Platane/snk">
-          <code>Platane/snk</code>
-        </a>
-      </p>
-    </figcaption>
-  </figure>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ncalteen">
-    <img
-      src="https://img.shields.io/badge/linkedin-ncalteen-blue"
-      alt="LinkedIn Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:ncalteen@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red"
-      alt="GMail Badge" />
-  </a>
-</p>
+![LinkedIn Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)
+![GMail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)
 
 ## Interesting Projects
 
