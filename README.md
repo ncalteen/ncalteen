@@ -1,7 +1,12 @@
 # Nick Alteen
 
-![LinkedIn Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)
-![GMail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ncalteen&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ncalteen"
+  width="100%"
+  height="200"
+/>
+</a>
 
 ## Interesting Projects
 
@@ -40,6 +45,9 @@ Other interesting repos:
 - [`ncalteen/branch-enforcement`](https://github.com/ncalteen/branch-enforcement)
 
 ## About Me
+
+![LinkedIn Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)
+![GMail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)
 
 ```python
 #!/usr/bin/python
