@@ -5,6 +5,7 @@
   src="https://render.gitanimals.org/farms/ncalteen"
   width="100%"
   height="200"
+  alt="GitAnimals"
 />
 </a>
 
