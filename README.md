@@ -3,12 +3,6 @@
 ![LinkedIn Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)
 ![GMail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)
 
-<img
-  src="https://render.gitanimals.org/farms/ncalteen"
-  width="600"
-  height="300"
-/>
-
 ## Interesting Projects
 
 Below are some interesting repositories and projects I've been contributing to
