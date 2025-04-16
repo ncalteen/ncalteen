@@ -1,18 +1,8 @@
 # Nick Alteen
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ncalteen&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/ncalteen"
-  width="100%"
-  height="200"
-  alt="GitAnimals"
-/>
-</a>
-
 ## Interesting Projects
 
-Below are some interesting repositories and projects I've been contributing to
-:man_technologist:
+Below are some interesting repositories and projects I've been contributing to!
 
 Curious about building your own GitHub Actions?
 
@@ -37,18 +27,15 @@ requests to access important systems.
 - [`issue-ops/semver`](https://github.com/issue-ops/semver)
 - [`issue-ops/validator`](https://github.com/issue-ops/validator)
 
-Curious about protecting endangered species using AI?
-
-- [WildTrack.org](https://ai.wildtrack.org/)
-
-Other interesting repos:
+Other interesting projects:
 
 - [`ncalteen/branch-enforcement`](https://github.com/ncalteen/branch-enforcement)
+- [`github/issue-parser`](https://github.com/github/issue-parser)
 
 ## About Me
 
-![LinkedIn Badge](https://img.shields.io/badge/linkedin-ncalteen-blue)
-![GMail Badge](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)
+![LinkedIn](https://img.shields.io/badge/linkedin-ncalteen-blue)
+![Gmail](https://img.shields.io/badge/gmail-ncalteen%40gmail.com-red)
 
 ```python
 #!/usr/bin/python
@@ -74,7 +61,7 @@ class Nick:
             },
             {
                 "company": "Google",
-                "organization": "Consumer Payments and Next Billion Users",
+                "organization": "Consumer Payments and Next Billion Users (NBU)",
                 "team": "Google Pay and Google Wallet",
                 "role": "Developer Relations Engineer",
                 "start_date": datetime.date(year=2022, month=5, day=30),
@@ -92,7 +79,7 @@ class Nick:
                 "company": "Amazon Web Services (AWS)",
                 "organization": "AWS Training & Certification",
                 "team": "Dedicated Cloud Training",
-                "role": "SDM, Lab Development & Engineering",
+                "role": "SDE, Lab Development & Engineering",
                 "start_date": datetime.date(year=2018, month=1, day=1),
                 "end_date": datetime.date(year=2020, month=4, day=1),
             },
